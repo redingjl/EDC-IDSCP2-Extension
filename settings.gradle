@@ -1,2 +1,5 @@
 rootProject.name = 'EDC-IDSCP2-Extension'
+include 'control-plane'
+include 'data-plane'
+include 'extension'
 
