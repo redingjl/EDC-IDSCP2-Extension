@@ -2,4 +2,6 @@ rootProject.name = 'EDC-IDSCP2-Extension'
 include 'control-plane'
 include 'data-plane'
 include 'extension'
+include 'idscp2'
+include 'idscp2p:dsp-api-configuration'
 
